@@ -10,18 +10,25 @@
     min-height: 400px;
 }
 .footer{
-    background-color: grey;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
+    background-color: rgb(187, 202, 209);
 }
 .jumbotron{
     padding: 70px 30px 70px 30px; 
     margin: 0px auto;
-    background-color: rgb(189, 22, 105);
+    background-color: rgb(97, 175, 211);
     color:floralwhite;
 }
 .address{
     font-size: 80%;
     margin: 0px;
-    color:rosybrown ;
+    color:rgb(63, 228, 57) ;
+}
+.aboutus{
+    padding-top: 30px;
+    margin: 0px;
+}
+.leader{
+    padding: 15px 0px 10px 0px;
 }
