@@ -25,6 +25,14 @@
     margin: 0px;
     color:rgb(63, 228, 57) ;
 }
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
 .aboutus{
     padding-top: 30px;
     margin: 0px;
